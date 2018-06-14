@@ -93,7 +93,7 @@ Please cite our paper if you use this code in your own work:
 ```
 @inproceedings{
   title={Bootstrapped Graph Diffusions: Exposing the Power of Nonlinearity},
-  author={Eliab Buchnik, Edith Cohen},
+  author={Eliav Buchnik, Edith Cohen},
   booktitle={ACM SIGMETRICS / International Conference on Measurement and Modeling of Computer Systems},
   year={2018}
 }
